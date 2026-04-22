@@ -2,7 +2,7 @@
 
 API REST para gestão de pedidos e cardápio de uma hamburgueria, desenvolvida como projeto prático para o curso de **Análise e Desenvolvimento de Sistemas**.
 
-## 🚀 Tecnologias Utilizadas
+## 🩰Tecnologias Utilizadas
 - **Node.js** & **Express**
 - **Sequelize ORM** (MySQL)
 - **Arquitetura MVC**
@@ -18,4 +18,4 @@ API REST para gestão de pedidos e cardápio de uma hamburgueria, desenvolvida c
 - Sistema de feedback (Avaliações) integrado ao histórico de pedidos.
 
 ---
-Desenvolvido por **Iara Matias** 🚀
+Desenvolvido por **Iara Matias** 🎀✨
